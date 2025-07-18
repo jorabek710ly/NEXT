@@ -1,4 +1,4 @@
-// app/page.tsx (yoki app/home/page.tsx)
+
 
 import React from 'react'
 import { Metadata } from 'next'
